@@ -1,0 +1,21 @@
+{
+    "name": "sam-dark-soda-monokai",
+    "displayName": "Sam Dark Soda Monokai",
+    "description": "Sam Dark Soda Monokai theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sam Dark Soda Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sam Dark Soda Monokai-color-theme.json"
+            }
+        ]
+    }
+}
