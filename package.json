@@ -3,6 +3,8 @@
     "displayName": "Monokai Soda Dawn",
     "description": "A dark Monokai Soda theme",
     "version": "0.0.1",
+    "publisher": "samheutmaker",
+    "repository": "https://github.com/samheutmaker/monokai-dawn",
     "engines": {
         "vscode": "^1.43.0"
     },
